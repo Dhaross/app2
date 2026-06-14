@@ -1228,6 +1228,4 @@ echo "Done"
 Output
 
 Done
-Done
 
-Claude Fable 5 is currently unavailable.
